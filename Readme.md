@@ -41,23 +41,60 @@ I’m a <b>Full-Stack & AI-Focused Developer</b> experienced in building scalabl
 
 <h3 align="left">🛠 Tech Stack</h3>
 
-<p align="left">
-<b>Programming Languages:</b> Python, TypeScript<br><br>
+<div align="left">
 
-<b>Frontend:</b> React, Next.js, Tailwind CSS<br><br>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img width="12"/>
 
-<b>Backend:</b> FastAPI<br><br>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
+  <img width="12"/>
 
-<b>Databases:</b> MongoDB, PostgreSQL (via Supabase)<br><br>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+  <img width="12"/>
 
-<b>AI / ML:</b> OpenAI APIs, LangChain, LLM-powered features (applied AI use cases)<br><br>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img width="12"/>
 
-<b>DevOps & Infrastructure:</b> Docker, Git, GitHub, Vercel, Render<br><br>
+  <!-- AI / ML -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="40" alt="LangChain"/>
+  <img width="12"/>
 
-<b>ORM & Backend Utilities:</b> Prisma ORM<br><br>
+  <!-- ORM -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM"/>
+  <img width="12"/>
 
-<b>Auth & Platform Services:</b> Clerk, Supabase
-</p>
+  <!-- DevOps / Infrastructure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" height="40" alt="Render"/>
+  <img width="12"/>
+
+  <!-- Auth / Platform -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clerk.svg" height="40" alt="Clerk"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
+
+</div>
 
 ###
 
