@@ -142,7 +142,7 @@ I’m a <b>Full-Stack & AI-Focused Developer</b> experienced in building scalabl
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuRanjan04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuRanjan04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyanshuRanjan04&layout=compact&langs_count=6&theme=dracula&hide=c%2B%2B,css,scss&exclude_repo=REPO1,REPO2" height="150" />
 </div>
 
