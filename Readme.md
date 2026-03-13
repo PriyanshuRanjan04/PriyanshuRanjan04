@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/priyanshu-ranjan-006845247/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="YOUR_YOUTUBE_URL">
@@ -142,7 +142,7 @@ I’m a <b>Full-Stack & AI-Focused Developer</b> experienced in building scalabl
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuRanjan04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyanshuRanjan04&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
